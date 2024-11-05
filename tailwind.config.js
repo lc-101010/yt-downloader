@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     extend: {},
   },
+  // darkMode: 'class',
   plugins: [
     require('@catppuccin/tailwindcss')({
       // prefix to use, e.g. `text-pink` becomes `text-ctp-pink`.
